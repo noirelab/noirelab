@@ -1,7 +1,7 @@
 <div align="center">
 	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
 	<br><br>
-    	<h2> Hello World! </h2>
+    	<h2> Welcome to my profile! </h2>
 </div>
 
 <div>
@@ -13,7 +13,7 @@
 		user = 'Kaique Medeiros Lima'
 		current_education = "Studying Computer Engineering"
 		currently_learning = "Machine Learning"
-		fun_fact = "I overcame obesity"
+		fun_fact = "noirelab is Balerion backwards"
 		interests = [
 			'Gaming',
 		 	'Gym',
@@ -36,6 +36,6 @@
 
 <p align="center">
     <a href="www.linkedin.com/in/kaique-lima-6a095a2aa"><img alt="Linkedin" title="JLinkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.instagram.com/limakaique1/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?   style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.instagram.com/limakaique1/"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="kaiquemedeiroslima05@gmail.com"><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  </p>
