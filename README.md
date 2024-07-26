@@ -14,7 +14,7 @@
     fun_fact = "I overcame obesity"
 	interests = [
 				'Gaming',
-                'Gym',
+                		'Gym',
 			 	'Motosports',
 				'Music'
 			    ]
