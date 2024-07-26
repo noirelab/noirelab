@@ -6,23 +6,23 @@
     <h2> Who am I? </h2>
 </div>
 
- ```python
-  class whoAmI:
-    user = 'Kaique Medeiros Lima'
-	current_education = "Studying Computer Engineering"
-    currently_learning = "Machine Learning"
-    fun_fact = "I overcame obesity"
-	interests = [
-				'Gaming',
-                		'Gym',
-			 	'Motosports',
-				'Music'
-			    ]
-	
-	def currentlyAt():
-		return ToledoPr()
+```python
+	class whoAmI:
+		user = 'Kaique Medeiros Lima'
+		current_education = "Studying Computer Engineering"
+		currently_learning = "Machine Learning"
+		fun_fact = "I overcame obesity"
+		interests = [
+			'Gaming',
+		 	'Gym',
+			'Motosports',
+			'Music'
+			]
+		
+		def currentlyAt():
+			return ToledoPr()
 
- ```
+```
 
 
 ### My Github stats:
