@@ -4,9 +4,9 @@
     	<h1> Welcome to my profile! </h1>
 </div>
 
-<div>
-    <h2> Who am I? </h2>
-</div>
+
+<h2> Who am I? </h2>
+
 
 ```python
 	class whoAmI:
