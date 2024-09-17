@@ -18,10 +18,6 @@
 			'Autosports',
 			'Music'
 			]
-		
-		def currentlyAt():
-			return ToledoPr()
-
 ```
 
 
