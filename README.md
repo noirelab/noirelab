@@ -7,7 +7,7 @@
 
 
 ```python
-	class whoAmI:
+	def who_am_i():
 		user = 'Kaique Medeiros Lima'
 		current_education = "Studying Computer Engineering"
 		currently_learning = "Machine Learning"
