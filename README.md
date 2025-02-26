@@ -15,7 +15,7 @@
 		interests = [
 			'Gaming',
 		 	'Gym',
-			'Autosports',
+			'Motorsports',
 			'Music'
 			]
 ```
