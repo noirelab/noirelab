@@ -8,8 +8,8 @@
 
 ```python
 	def who_am_i():
-		user = 'Kaique Medeiros Lima'
-		current_education = "Studying Computer Engineering"
+		user = 'Kaique M. Lima'
+		current_education = "Student at UTFPR - Computer Engineering"
 		currently_learning = "Machine Learning"
 		fun_fact = "noirelab is Balerion backwards"
 		interests = [
