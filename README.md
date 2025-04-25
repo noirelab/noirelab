@@ -9,7 +9,7 @@
 ```python
 	def who_am_i():
 		user = 'Kaique M. Lima'
-		current_education = "Student at UTFPR - Computer Engineering"
+		current_education = "Student at UTFPR - Computer Science"
 		currently_learning = "Machine Learning"
 		fun_fact = "noirelab is Balerion backwards"
 		interests = [
