@@ -3,8 +3,9 @@
   alt="footer wave"
 />
 
+<h1 align="center">print("Hello, World!")</h1>
 
-<h2> Who am I? </h2>
+Hello, I'm Kaique. I am a Computer Sciences student, primarily using A.I to tackle complex challenges and craft meaningful solutions.
 
 
 ```python
