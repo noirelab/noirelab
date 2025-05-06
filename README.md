@@ -8,6 +8,7 @@
 Hello, I'm Kaique. I am a Computer Sciences student, primarily using A.I to tackle complex challenges and craft meaningful solutions.
 
 
+
 ```python
 	def who_am_i():
 		user = 'Kaique M. Lima'
@@ -21,6 +22,7 @@ Hello, I'm Kaique. I am a Computer Sciences student, primarily using A.I to tack
 			'Music'
 			]
 ```
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noirelab&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
